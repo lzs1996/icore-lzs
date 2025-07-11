@@ -1,0 +1,4 @@
+com\lzs\common\DTO\BaseDto.class
+com\lzs\common\config\SwaggerConfig.class
+com\lzs\common\DTO\XmlJavaDTO.class
+com\lzs\common\utils\Test.class

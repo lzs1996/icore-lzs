@@ -1,0 +1,12 @@
+server:
+  port: 8002
+  servlet:
+    context-path: /ext-services
+spring:
+  application:
+    name: ext-services
+  cloud:
+    zookeeper:
+      connect-string: localhost:2181
+      discovery:
+        enabled: true

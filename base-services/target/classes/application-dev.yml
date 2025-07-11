@@ -1,0 +1,12 @@
+server:
+  port: 8001
+  servlet:
+    context-path: /base-services
+spring:
+  application:
+    name: base-services
+  cloud:
+    zookeeper:
+      connect-string: localhost:2181
+      discovery:
+        enabled: true
