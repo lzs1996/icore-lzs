@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61c0edcf-7ae9-42bd-bbd6-c5d00a498eac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="HTML File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\Develop\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2YyoC4YBPHeqDwR1TfBK1P1CXPx" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Develop/IDEA project/workspace/icore-lzs",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lzs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Develop\IDEA2019.3.1\workspace\icore-lzs\common-services\src\main\resources" />
+      <recent name="D:\Develop\IDEA2019.3.1\workspace\icore-lzs\ext-services\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Dom4JDemo">
+    <configuration name="Dom4JDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lzs.common.utils.Dom4JDemo" />
+      <module name="common-services" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzs.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DomDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lzs.common.utils.DomDemo" />
+      <module name="common-services" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzs.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtServicesApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lzs.ExtServicesApplication" />
+      <module name="ext-services" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzs.common.DTO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lzs.common.utils.Test" />
+      <module name="common-services" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzs.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XMLTraversalExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lzs.common.utils.XMLTraversalExample" />
+      <module name="common-services" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzs.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Dom4JDemo" />
+      <item itemvalue="Application.DomDemo" />
+      <item itemvalue="Application.ExtServicesApplication" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.XMLTraversalExample" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61c0edcf-7ae9-42bd-bbd6-c5d00a498eac" name="Default Changelist" comment="" />
+      <created>1701507049600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701507049600</updated>
+      <workItem from="1701507053012" duration="1981000" />
+      <workItem from="1701509068313" duration="2888000" />
+      <workItem from="1701511994815" duration="1668000" />
+      <workItem from="1701610239420" duration="6898000" />
+      <workItem from="1701617232431" duration="55000" />
+      <workItem from="1701617299644" duration="510000" />
+      <workItem from="1701700435152" duration="1999000" />
+      <workItem from="1701870605024" duration="4277000" />
+      <workItem from="1702197434173" duration="10643000" />
+      <workItem from="1702814482330" duration="2814000" />
+      <workItem from="1703340909065" duration="3673000" />
+      <workItem from="1703390931997" duration="9975000" />
+      <workItem from="1703418967546" duration="663000" />
+      <workItem from="1703424573149" duration="6435000" />
+      <workItem from="1704617789107" duration="6112000" />
+      <workItem from="1705224314941" duration="752000" />
+      <workItem from="1706791893881" duration="195000" />
+      <workItem from="1709826467400" duration="78000" />
+      <workItem from="1714739845140" duration="13130000" />
+      <workItem from="1714924967269" duration="693000" />
+      <workItem from="1716131707729" duration="93000" />
+      <workItem from="1751099749256" duration="60000" />
+      <workItem from="1751099846803" duration="58000" />
+      <workItem from="1751100004019" duration="270000" />
+      <workItem from="1751100848627" duration="1004000" />
+      <workItem from="1751101915036" duration="8796000" />
+      <workItem from="1751979917997" duration="805000" />
+      <workItem from="1751980850747" duration="617000" />
+      <workItem from="1752154001204" duration="1897000" />
+      <workItem from="1752201632736" duration="1217000" />
+      <workItem from="1752220136494" duration="646000" />
+      <workItem from="1752229497003" duration="2328000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common-services/src/main/java/com/lzs/common/utils/DomDemo.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common-services/src/main/java/com/lzs/common/utils/Dom4JDemo.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
